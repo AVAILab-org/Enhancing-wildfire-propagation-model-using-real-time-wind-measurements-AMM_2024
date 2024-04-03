@@ -9,9 +9,8 @@
 
  *  This version is directly utilised in the following paper:                                                 *
 
-    " Enhancing Wildfire Propagation Model Predictions Using UAV Swarm-Based
-     Real-Time Wind Measurements: A Conceptual Framework "published in the  
-     Journal of applied Mathemaical Modelling. 
+    "Enhancing Wildfire Propagation Model Predictions Using UAV Swarm-Based
+     Real-Time Wind Measurements: A Conceptual Framework" published in Applied Mathematical Modelling journal.
 
 
 
